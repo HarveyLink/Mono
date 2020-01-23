@@ -1,1 +1,4 @@
-'https://download.visualstudio.microsoft.com/download/pr/fc059472-448e-4680-a3cd-e3ba032991c2/44992c2d02aaaf379bba3fa0c8b37a83/monoframework-mdk-6.6.0.155.macos10.xamarin.universal.pkg
+https://download.visualstudio.microsoft.com/download/pr/fc059472-448e-4680-a3cd-e3ba032991c2/44992c2d02aaaf379bba3fa0c8b37a83/monoframework-mdk-6.6.0.155.macos10.xamarin.universal.pkg
+
+http://ddmds-0523/SessionState/Sesstion.aspx
+http://DDMDS-0916/IFrame/Main.aspx
